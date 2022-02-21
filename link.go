@@ -5,7 +5,7 @@
 // Have problems with Git Bash(win10), due to the default configuration of that tool.
 // Anyway, report any issues.
 
-package main
+package link
 
 import "fmt"
 
